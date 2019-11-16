@@ -1,0 +1,18 @@
+.data-weather {
+  line-height: 0.5rem;
+  font-size: 1.2rem;
+}
+
+span {
+  color: #2196f3;
+}
+
+div {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}

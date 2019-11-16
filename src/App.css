@@ -1,0 +1,24 @@
+.App {
+  background: rgba(0, 168, 118, 0.5);
+  display: flex;
+  flex-direction: column;
+  max-width: 800px;
+  min-height: 500px;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  color: #4ddd00;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url("https://cdn.pixabay.com/photo/2018/06/20/16/12/clouds-3486819_960_720.jpg")
+    no-repeat;
+  background-size: cover;
+  text-shadow: 1px 1px 2px black;
+}
